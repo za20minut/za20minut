@@ -4,7 +4,7 @@ Bioinformatics student passionate about data analysis, programming, and machine 
 I am currently studying bioinformatics. I am particularly interested in analyzing biological data and creating tools that help better understand complex datasets.
 
 
-About Me
+  About Me
 
 Bioinformatics student at Poznan University of Technology
 
@@ -21,7 +21,8 @@ Comfortable working in Linux and Windows environments
 Experience in web development (HTML, CSS, JavaScript)
 
 
-Interests
+
+  Interests
 
 Bioinformatics data analysis
 
@@ -32,6 +33,6 @@ Scientific programming
 Data visualization
 
 
-Contact
+  Contact
 
 Email: mateuszm3442@gmail.com
